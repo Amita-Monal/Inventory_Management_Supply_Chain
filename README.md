@@ -19,3 +19,4 @@ The organization wants to optimize inventory management. The goal is to identify
 - Purchase Method Wise Sales
 - Dashboard Interaction
   - <a href = "https://github.com/Amita-Monal/Inventory_Management_Supply_Chain/blob/main/Inventory_Control_Dashboard1.png"> Inventory_Dashboard1</a>
+  - <a href = "https://github.com/Amita-Monal/Inventory_Management_Supply_Chain/blob/main/Inventory_Control_Dashboard2.png"> Inventory_Dashboard2</a>
