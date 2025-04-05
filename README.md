@@ -23,5 +23,11 @@ The organization wants to optimize inventory management. The goal is to identify
 ## Process
 - verify data for any missing values and anamolies, sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created different measures using dax formula according to the business requirement.
+- Created different measures using dax formula according to the KPIs requirement.
 - Created interactive dashboard according to the questions asked and apply slicer to make dynamic.
+## Dashboard1
+![Inventory_Control_Dashboard1](https://github.com/user-attachments/assets/852ef9e2-1127-4b6f-bfc5-e3d5ccc49e0b)
+## Dashboard2
+![Inventory_Control_Dashboard2](https://github.com/user-attachments/assets/b564f784-b547-4c3b-9950-b09fe4ac0864)
+
+
