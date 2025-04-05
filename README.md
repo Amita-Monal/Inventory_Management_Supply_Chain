@@ -30,7 +30,7 @@ The organization wants to optimize inventory management. The goal is to identify
 ## Dashboard2
 ![Inventory_Control_Dashboard2](https://github.com/user-attachments/assets/b564f784-b547-4c3b-9950-b09fe4ac0864)
 
-### Findings
+## Findings
 
 - Total inventory is 1905 items with a total order volume of 1M and an inventory value of 706.21K.
 - Sales dropped sharply in 2023, showing a -73.93% YoY growth.
@@ -42,7 +42,7 @@ The organization wants to optimize inventory management. The goal is to identify
 - Stores like Argyle Store and Clarges Store are top performers.
 - Sales remained fairly stable from 2019 to 2022, but profit margins didn't grow significantly.
 
-### Recommendations
+## Recommendations
 
 To improve overall performance, it's important to investigate the sharp drop in sales during 2023 and identify what went wrong—whether it's due to internal issues, market changes, or customer behavior. Boosting the sales of low-performing products like mobiles and computers through promotions or better pricing can help balance category performance. Since the West region and stores like Argyle Store are doing well, their strategies can be applied in weaker areas. Also, optimizing inventory based on regional demand can reduce waste and improve efficiency. As most customers prefer debit payments, enhancing that experience while encouraging other payment methods may lead to higher conversions. Lastly, profits have remained flat despite steady sales, so revisiting costs and offering premium products could help improve margins.
 
