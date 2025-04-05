@@ -31,3 +31,4 @@ The organization wants to optimize inventory management. The goal is to identify
 ![Inventory_Control_Dashboard2](https://github.com/user-attachments/assets/b564f784-b547-4c3b-9950-b09fe4ac0864)
 
 
+
