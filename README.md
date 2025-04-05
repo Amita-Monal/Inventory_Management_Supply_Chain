@@ -20,3 +20,8 @@ The organization wants to optimize inventory management. The goal is to identify
 - Dashboard Interaction
   - <a href = "https://github.com/Amita-Monal/Inventory_Management_Supply_Chain/blob/main/Inventory_Control_Dashboard1.png"> Inventory_Dashboard1</a>
   - <a href = "https://github.com/Amita-Monal/Inventory_Management_Supply_Chain/blob/main/Inventory_Control_Dashboard2.png"> Inventory_Dashboard2</a>
+## Process
+- verify data for any missing values and anamolies, sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created different measures using dax formula according to the business requirement.
+- Created interactive dashboard according to the questions asked and apply slicer to make dynamic.
